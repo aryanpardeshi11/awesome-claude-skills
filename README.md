@@ -157,6 +157,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [recursive-research](https://github.com/Anjos2/recursive-research) - Recursive research up to PhD level across any domain (science, tech, business, arts, humanities) with source tiering, WDM + Munger inversion for autonomous decisions, and disk checkpointing to survive context compaction. *By [@Anjos2](https://github.com/Anjos2)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
+- [indian-day-trader-skill](https://github.com/aryanpardeshi11/indian-day-trader-skill) - Indian NSE/BSE stock market AI skill with multi-timeframe technicals, 10,000-path Monte Carlo Time Machine, April 2026 Indian statutory tax sizing, hard risk gates, SQLite paper ledger, and 9 Indian broker bridges (zero-dep Python 3.10+ stdlib). *By [@aryanpardeshi11](https://github.com/aryanpardeshi11)*
 
 ### Business & Marketing
 
